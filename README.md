@@ -1,4 +1,4 @@
-# Data-analysis-Loans and Communication
+## Data-analysis-Loans and Communication
 
 
 1.Introduction 
@@ -12,4 +12,5 @@ Second file is CommunicationHistory which contains the details about 'contacting
 
 I have shared the link of my Google sheet where Full Analysis of data is done and have uploaded the report of it also.
 
+### For the G-Sheet link for detailed Analysis click [!HERE](https://docs.google.com/spreadsheets/d/19aPjwIGYEeUDeoCngDsinyoIKm62EvbKifunVJg_9Ws/edit?usp=sharing) 
 
