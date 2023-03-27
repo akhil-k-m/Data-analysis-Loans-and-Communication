@@ -1,7 +1,7 @@
 ## Data-analysis-Loans and Communication
 
 
-1.Introduction 
+##### Introduction 
 
 There are two files(dataset) given by DPDzero - Leading firms in analysis.
 First file is portfolio_data which contains data about loans given. It has loan number , due date, state to which the person belongs , dateofbirth of a person to whom the loan has been granted and the loan amount granted.
